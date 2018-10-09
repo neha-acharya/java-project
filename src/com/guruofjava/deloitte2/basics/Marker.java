@@ -12,7 +12,7 @@ public class Marker {
 	public Marker(String a,String b,double price){
 		brand=a;
 		color=b;
-		price=price;
+//		price=price;
 	}
 	public void write(int input){
 		System.out.println(input);
