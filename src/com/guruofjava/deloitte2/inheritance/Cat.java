@@ -20,5 +20,7 @@ public abstract class Cat extends Animal implements Hunter,Jumper,Runner {
 			System.out.println("cat is moving: "+distance+" distance");
 		}
 		
+		
+		
 	}
 
